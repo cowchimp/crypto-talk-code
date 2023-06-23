@@ -1,0 +1,8 @@
+{
+  "name": "crypto-talk-code",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.15.0"
+  }
+}
